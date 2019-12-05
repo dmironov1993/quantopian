@@ -1,1 +1,2 @@
-# Solutions to quantopian.com/lectures
+# Solutions to Quantopian Exercises
+quantopian.com/lectures
